@@ -1,2 +1,2 @@
 # Skillfactory1
-*[Проект0](https://github.com/Mana1496/Skillfactory1/main)
+*[Проект0](https://github.com/Mana1496/Skillfactory1/tree/main/project0)
